@@ -3,3 +3,4 @@ Adicionado uma segunda linha!
 Feito outra edição
 reverter commit
 gerando conflito !¨!
+gerando conflito!!
