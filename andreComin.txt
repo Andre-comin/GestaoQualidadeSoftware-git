@@ -1,1 +1,2 @@
-Olá, meu nome é André. Estou realizando a aula prática do professor Fábio
+Olá, meu nome é André. Estou realizando a aula prática do professor Fábio.
+Adicionado uma segunda linha!
