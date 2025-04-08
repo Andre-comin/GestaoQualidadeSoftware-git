@@ -1,8 +1,5 @@
 Olá, meu nome é André. Estou realizando a aula prática do professor Fábio.
 Adicionado uma segunda linha!
-<<<<<<< HEAD
 Feito outra edição
 reverter commit
-=======
-gerando conflito
->>>>>>> 20868b8394701b71115d6898e4a5f500a5617529
+gerando conflito !¨!
